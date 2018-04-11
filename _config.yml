@@ -16,7 +16,7 @@
 title: Your awesome title
 email: your-email@example.com
 
-baseurl: "test3" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -27,6 +27,15 @@ markdown: kramdown
 #to install
 #
 #bundle exec jekyll serve
+#
+#for git:
+#(git init)
+#(git checkout -b gh-pages)
+#git status
+#git add .
+#git commit -m "comment"
+#(git remote add origin https://github.com/soccerjoe/test3.git)
+#git push origin gh-page
 
 theme: minima #minima
 plugins:

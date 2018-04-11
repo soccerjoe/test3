@@ -1,15 +1,15 @@
 ---
 layout: joe3
-title: Projects
-permalink: /projects/
+title: Teaching
+permalink: /teaching/
 ---
-## Projects
+<h1> Teaching </h1>
+
 
 Here is a list of my project:
 - here
 - and here
 - and still here
-- and here
 
 
 {% highlight python %}

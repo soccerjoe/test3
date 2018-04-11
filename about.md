@@ -1,5 +1,5 @@
 ---
-layout: joe
+layout: joe3
 title: About
 permalink: /about/
 ---
